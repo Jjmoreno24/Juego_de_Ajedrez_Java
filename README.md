@@ -1,33 +1,31 @@
 [![KRmj-Mz6-Qa-Um-P-1584-396.png](https://i.postimg.cc/HkXSSH13/KRmj-Mz6-Qa-Um-P-1584-396.png)](https://postimg.cc/Yv2f959m)
 
-<h1>Juego de Ajedres</h1>
+<h1>Chess Game</h1>
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 
-##  Desarrollo
-- Utilice elementos de **POO** para resolver este escenario.
-- El programa controla todos los escenarios relacionados al movimiento del caballo, con mensajes de error, y/o alerta donde se requiere.
-- Todas las variables, arreglos y métodos deben estar en un archivo de clase externo.
-- Contiene manejo de errores y posibles excepciones que ocurran durante la ejecución de su programa.
+## Development
+- Use elements of **POO** to solve this scenario.
+- The program controls all scenarios related to the movement of the horse, with error messages, and/or alerts where required.
+- All variables, arrays and methods must be in an external class file.
+- It contains error handling and possible exceptions that occur during the execution of your program.
+
+## Operation 
+The board starts with a white knight ♞ (CB) and a black knight ♘ (CN) in play. The white knight is on B1. The black knight starts on G8.
+
+Chess nomenclature is used and keeps track of moves of each knight.
+The user receives constant feedback of the available position to make his move.
+Only the moves of the knight are valid.
+
+If the two knights are in the same position, the program terminates and sends a message to the screen showing that the player in turn has won.
+The user can use the phrase "EXIT" to exit the program. 
+When exiting the program the system displays: 
+- The starting position of each horse.
+- The course record and the final position of each horse.
+- The user of the turn who has won the game.
 
 
-
-## Funcionamiento 
-El tablero inicia con un caballo blanco ♞ (CB) y un caballo negro ♘ (CN) en juego. El caballo blanco se encuentra en B1. El caballo negro inicia en G8.
-
-Se emplea la nomenclatura del ajedrez y lleva un registro de movimientos de cada caballo.
-El usuario recibe un feedback constante de la posicion disponible para realizar su movimiento.
-Solo son validos los movimiento del caballo.
-
-Si los dos caballos se encuentran en la misa posición, el programa termina y envía un mensaje a pantalla donde muestra que el jugador de turno ha ganado.
-El usuario podrá utilizar la frase “EXIT” para salir del programa. 
-Al salir del programa el sistema muestra: 
-- La posición de salida de cada caballo.
-- El registro de recorrido y la posición final de cada caballo.
-- El usuario del turno que ha ganado la partida.
-
-
-## 🔭 Ejecucion 
+## 🔭 Execution 
 ![Chess](https://user-images.githubusercontent.com/117414953/217691219-84fc37a9-6d5b-41ce-ac6f-c9ef2072f199.jpg)
 
 <br>
